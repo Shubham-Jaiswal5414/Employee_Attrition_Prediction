@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Streamlit cache
+.cache/
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Logs
+*.log
+
+# Lock files can be committed if needed, but ignore local environment lockfiles from other tools
+pip-wheel-metadata/
