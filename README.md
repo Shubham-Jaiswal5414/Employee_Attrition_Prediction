@@ -44,6 +44,10 @@ A Streamlit app that predicts employee attrition using a trained classification 
 5. Use branch `main` and main file path `streamlit_app/app.py`.
 6. Deploy the app.
 
+## Live demo
+
+- App URL: https://employeeattritionprediction1234.streamlit.app/
+
 ## Notes
 
 - The app requires the `model/` folder to contain the saved artifacts.
